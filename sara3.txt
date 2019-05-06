@@ -1,0 +1,5 @@
+Apple
+Pear
+Apple
+Cherry
+Orange
